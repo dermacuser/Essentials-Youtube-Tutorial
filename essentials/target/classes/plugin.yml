@@ -1,0 +1,5 @@
+name: essentials
+main: de.dermacuser.Plugin
+version: 1.0
+api-version: 26.1.2
+description: Ein Tutorial Plugin
